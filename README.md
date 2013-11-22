@@ -4,7 +4,7 @@ Simple YCbCr-Viewer (YUV)
 Supports the following formats:
 
 - YV12
-- IYUV
+- IYUV (same as I420 which used by webrtc)
 - YUVY
 - UYVY
 - YUY2
